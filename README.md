@@ -9,3 +9,4 @@ Following are the books in the Repo so Far :
 1.	Magic of Thinking Big
 2.	Think and Grow Rich
 3.	Eat that Frog
+4.	10X Rule
